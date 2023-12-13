@@ -14,10 +14,13 @@ Voici un exemple de ce que nous attendons ...
 
 ### Informations
 
+Clone ce dossier pour commencer ton challenge ! " git@github.com:Dolpheus89/Wild-Chickens-School.git "
+Oublie pas de reinstaller node modules ! " npm i "
+
 la couleur préféré de la WCS est le "#fc127b"
 la font utilisé est "Judson"
 
-le tableau ChickenTab est fourni ! N'oublie pas les methode de tri des tableaux pour les utiliser à ton avantage !
+le tableau ChickenTab est fourni ! N'oublie pas les methodes de tri des tableaux pour les utiliser à ton avantage !
 
 #### Bonus :
 
