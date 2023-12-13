@@ -14,11 +14,13 @@ Voici un exemple de ce que nous attendons ...
 
 ### Informations
 
-la couleur préféré de la WCS est le "#fc127b"
-la font utilisé est "Judson"
+La couleur préférée de la WCS est le "#fc127b"
+La font utilisée est "Judson"
 
-le tableau ChickenTab est fourni ! N'oublie pas les methode de tri des tableaux pour les utiliser à ton avantage !
+Le tableau ChickenTab est fourni ! Il est dans un fichier '.json'
+
+Utilise les méthodes de tri des tableaux pour les utiliser à ton avantage pour séparer les "Teacher" des "Student"
 
 #### Bonus :
 
-Ajoute une card te correpondant dans le tableau avec comme proffesion "développeur", surement un oissillon dans toute sa splendeur !
+Ajoute une card te correspondant dans le tableau avec comme profession "développeur «et une belle image ! surement un oisillon dans toute sa splendeur !
