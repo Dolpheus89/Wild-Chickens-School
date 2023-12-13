@@ -19,7 +19,6 @@ La font utilisée est "Judson"
 
 Le tableau ChickenTab est fourni ! Il est dans un fichier '.json'
 
-Clone ce dossier pour commencer ton challenge ! " git@github.com:Dolpheus89/Wild-Chickens-School.git "
 Oublie pas de reinstaller node modules ! " npm i "
 
 Utilise les méthodes de tri des tableaux pour les utiliser à ton avantage pour séparer les "Teacher" des "Student"
@@ -27,3 +26,7 @@ Utilise les méthodes de tri des tableaux pour les utiliser à ton avantage pour
 #### Bonus :
 
 Ajoute une card te correspondant dans le tableau avec comme profession "développeur «et une belle image ! surement un oisillon dans toute sa splendeur !
+
+##
+
+Clone ce dossier pour commencer ton challenge et créer une nouvelle branche pour le compléter !
