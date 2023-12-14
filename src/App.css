@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Judson:wght@400;700&display=swap');
+
+* {
+    font-family: 'Judson', serif;
+    margin: 0 auto;
+}
+
+#root {
+    min-height: 100svh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+}
+
+h2 {
+    font-size: 2rem;
+    text-align: center;
+    width: 100%;
+    margin: 1% 0;
+}
+
+#Teacher {
+    margin: 1% 0;
+}
+
+#Student {
+    margin-bottom: 8%;
+}
