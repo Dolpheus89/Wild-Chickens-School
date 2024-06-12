@@ -2,7 +2,7 @@
 
 Isabelle Poulet, la cheffe de projet bienveillante, s'approche de toi avec une plume d'or à la patte. Son regard réfléchi exprime une vision claire pour renforcer l'esprit d'équipe. Elle te confie la mission spéciale :
 
-"Cher développeur en herbe, bienvenue dans l'équipe de construction ! Nous avons besoin d'une page 'Team' qui reflète la diversité et la coopération qui règnent parmi nous. Ta mission, si tu l'acceptes, consiste à utiliser React pour façonner cette page avec créativité et précision.
+"Cher développeur en herbe, bienvenue dans l'équipe d'intégrateurs web! Nous avons besoin d'une page 'Team' qui reflète la diversité et la coopération qui règnent parmi nous. Ta mission, si tu l'acceptes, consiste à utiliser React pour façonner cette page avec créativité et précision.
 
 Voici un exemple de ce que nous attendons ...
 
